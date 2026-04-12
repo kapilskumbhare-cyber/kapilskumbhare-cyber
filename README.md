@@ -2,13 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=200&section=header&text=Kapil%20Kumbhare&fontSize=50&fontColor=00FF41&fontAlignY=38&desc=Linux%20%7C%20Cloud%20%7C%20DevOps&descAlignY=58&descSize=20&descColor=ffffff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=🛡️+Building+Self-Healing+Linux+Infrastructure;☁️+AWS+Cloud+%26+DevOps+Explorer;🔧+Automating+Everything+with+Bash;📈+Fresher+with+a+Senior+Engineer+Mindset)](https://git.io/typing-svg)
+### 🟢 Open to Work — Entry-Level DevOps / Cloud / Linux Roles
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Building+Self-Healing+Linux+Infrastructure;AWS+Cloud+%26+DevOps+Explorer;Automating+Everything+with+Bash;Fresher+who+builds+real+systems%2C+not+tutorials)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" alt="DevOps GIF" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="DevOps Engineering" width="260" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## `$ whoami`
 
@@ -17,7 +19,8 @@ Name     : Kapil Kumbhare
 Handle   : @kapilskumbhare-cyber
 Role     : Aspiring DevOps & Cloud Engineer
 Location : India 🇮🇳
-Status   : Actively seeking entry-level DevOps / Cloud roles
+Status   : ✅ Actively seeking entry-level roles & internships
+Contact  : kapilskumbhare@gmail.com
 Mindset  : Build first. Learn deeper. Repeat.
 ```
 
@@ -52,7 +55,7 @@ My projects tackle actual sysadmin problems: automated failure detection, self-h
 
 ---
 
-## 🚀 Featured Project — The One That Matters
+## 🚀 Featured Project
 
 ### 🛡️ [linux-autoheal-monitor](https://github.com/kapilskumbhare-cyber/linux-autoheal-monitor)
 
@@ -63,7 +66,7 @@ This is my **capstone Linux project** — not a script, but a full system built 
 Most beginners write a script that prints CPU usage. I built a system that **detects the problem, decides what to do, alerts the team, and fixes itself** — automatically.
 
 <details>
-<summary><b>📐 Click to see System Architecture</b></summary>
+<summary><b>📐 Click to expand System Architecture</b></summary>
 
 ```
 linux-autoheal-monitor/
@@ -99,31 +102,29 @@ linux-autoheal-monitor/
 | 🔁 Self-Healing | Auto-restarts failed services — zero manual intervention |
 | 📝 Logging | Full audit trail for post-incident analysis |
 
-**🏷️ Stack:** `Linux` `Bash` `Cron Jobs` `Systemctl` `Mail Utility` `Git`
-
-**💡 Recruiter note:** This project demonstrates modular architecture design, SRE/reliability thinking, and an automation-first mindset — in a fresher's project.
+**Stack:** `Linux` `Bash` `Cron Jobs` `Systemctl` `Mail Utility` `Git`
 
 ---
 
-## 📂 Practice Repositories
+## 🗂️ Linux Engineering Projects
 
-> These 3 repos were built to master Linux fundamentals that every DevOps engineer must know cold.
+> Hands-on Linux builds covering the core skills every DevOps engineer uses daily.
 
 <table>
   <tr>
     <td width="33%">
       <h3>🔐 <a href="https://github.com/kapilskumbhare-cyber/linux-file-permissions">linux-file-permissions</a></h3>
-      <p>File permission fundamentals, secure multi-user directory setup, and proper access control implementation.</p>
+      <p>Implemented file permission fundamentals, secure multi-user directory setup, and access control from scratch.</p>
       <code>chmod</code> <code>chown</code> <code>ACLs</code> <code>umask</code>
     </td>
     <td width="33%">
       <h3>👥 <a href="https://github.com/kapilskumbhare-cyber/linux-user-management">linux-user-management</a></h3>
-      <p>User onboarding, group-based access control, password policies, and secure system administration.</p>
+      <p>Built a full user onboarding flow with group-based access control, password policies, and secure system administration.</p>
       <code>useradd</code> <code>groupadd</code> <code>passwd</code> <code>sudo</code>
     </td>
     <td width="33%">
       <h3>⚙️ <a href="https://github.com/kapilskumbhare-cyber/linux-process-management">linux-process-management</a></h3>
-      <p>Practical Linux process lifecycle — monitoring, controlling, and managing running processes.</p>
+      <p>Explored the complete Linux process lifecycle — monitoring, controlling, and managing running processes.</p>
       <code>ps</code> <code>top</code> <code>kill</code> <code>jobs</code> <code>systemctl</code>
     </td>
   </tr>
@@ -131,33 +132,35 @@ linux-autoheal-monitor/
 
 ---
 
+## 🎯 Current Learning Roadmap
+
+```
+2026 Path
+│
+├── 🐳  Docker & Containerization          ← In Progress
+├── ☁️  AWS (EC2, S3, IAM, VPC)            ← In Progress
+├── 🔁  CI/CD — GitHub Actions / Jenkins   ← Upcoming
+├── 📡  Networking for DevOps              ← Upcoming
+├── 🏗️  Terraform — Infrastructure as Code ← Planned
+│
+└── 🏆  AWS Cloud Practitioner Cert        ← Target: 2026
+```
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Kapil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kapilskumbhare-cyber&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=00FF41&bg_color=0d1117)
+<img src="https://streak-stats.demolab.com?user=kapilskumbhare-cyber&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff&sideNums=ffffff&currStreakNum=00FF41" alt="GitHub Streak" width="48%"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kapilskumbhare-cyber&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+<img src="https://github-readme-stats.vercel.app/api?username=kapilskumbhare-cyber&show_icons=true&theme=dark&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=00FF41&bg_color=0d1117&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapilskumbhare-cyber&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0d1117)
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilskumbhare-cyber&layout=compact&theme=dark&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0d1117&langs_count=6" alt="Top Languages" width="40%"/>
 
 </div>
-
----
-
-## 🎯 Roadmap — What's Next
-
-```
-2026 Learning Path
-│
-├── 🐳  Docker & Containerization          ← In Progress
-├── ☁️  AWS (EC2, S3, IAM, VPC deep dive)  ← In Progress
-├── 🔁  CI/CD — GitHub Actions / Jenkins   ← Upcoming
-├── 📡  Networking for DevOps              ← Upcoming
-├── 🏗️  Terraform (IaC basics)             ← Planned
-│
-└── 🏆  AWS Cloud Practitioner Cert        ← Target: 2026
-```
 
 ---
 
@@ -173,7 +176,7 @@ I'm actively looking for **entry-level DevOps / Cloud / Linux opportunities** �
 
 <br/>
 
-> 📬 *Open my repos, read the code, and let's talk. I build things — you can verify that.*
+> 📬 *Open my repos, read the code, and reach out. I build things — you can verify that.*
 
 </div>
 
@@ -191,4 +194,3 @@ Always Learning. Always Building.
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kapilskumbhare-cyber.kapilskumbhare-cyber)
 
 </div>
-

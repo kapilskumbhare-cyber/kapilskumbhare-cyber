@@ -153,7 +153,7 @@ linux-autoheal-monitor/
 <div align="center">
 
 <!-- Streak Stats — most reliable, always works -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kapilskumbhare-cyber&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff&sideNums=ffffff&currStreakNum=00FF41" alt="GitHub Streak" width="70%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kapilskumbhare-cyber&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="34%"/>
 <br/><br/>
 
 <!-- Profile Summary Cards — reliable alternative to github-readme-stats -->

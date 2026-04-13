@@ -154,7 +154,6 @@ linux-autoheal-monitor/
 
 <!-- Streak Stats — most reliable, always works -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kapilskumbhare-cyber&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff&sideNums=ffffff&currStreakNum=00FF41" alt="GitHub Streak" width="70%"/>
-
 <br/><br/>
 
 <!-- Profile Summary Cards — reliable alternative to github-readme-stats -->

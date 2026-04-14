@@ -152,7 +152,7 @@ linux-autoheal-monitor/
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kapilskumbhare-cyber&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff&sideNums=ffffff&currStreakNum=00FF41" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=kapilskumbhare-cyber&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff&sideNums=ffffff&currStreakNum=00FF41" alt="GitHub Streak" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kapilskumbhare-cyber&show_icons=true&theme=dark&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=00FF41&bg_color=0d1117&count_private=true" alt="GitHub Stats" width="49%"/>
 

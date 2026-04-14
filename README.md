@@ -152,20 +152,17 @@ linux-autoheal-monitor/
 
 <div align="center">
 
-<!-- Streak Stats -->
-<img src="https://nirzak-streak-stats.vercel.app?user=kapilskumbhare-cyber&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff&sideNums=ffffff&currStreakNum=00FF41" alt="GitHub Streak" width="70%"/>
+<!-- Profile Activity — always works -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapilskumbhare-cyber&theme=github_dark" alt="Profile Summary" width="90%"/>
+
 <br/><br/>
 
-<!-- Profile Summary Cards — reliable alternative to github-readme-stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapilskumbhare-cyber&theme=github_dark" alt="Profile Summary" width="70%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kapilskumbhare-cyber&theme=github_dark" alt="Repos Per Language" width="34%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapilskumbhare-cyber&theme=github_dark" alt="Stats" width="34%"/>
+<!-- Top Languages + Productive Time + Stats side by side -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kapilskumbhare-cyber&theme=github_dark" alt="Top Languages" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kapilskumbhare-cyber&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapilskumbhare-cyber&theme=github_dark" alt="Stats" width="32%"/>
 
 </div>
-
 ---
 
 ## 🤝 Let's Connect

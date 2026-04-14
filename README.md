@@ -160,7 +160,6 @@ linux-autoheal-monitor/
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kapilskumbhare-cyber&theme=github_dark" alt="Stats" width="34%"/>
 
 </div>
----
 
 ## 🤝 Let's Connect
 
